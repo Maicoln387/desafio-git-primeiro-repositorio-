@@ -1,2 +1,5 @@
-# desafio-git-primeiro-repositorio-
-desafio de projeto sobre Git/Githu
+# Desafio-Git-Primeiro-Repositorio-
+Desafio de Projeto sobre Git/Githu
+
+## Links Úteis
+[Sintaxe báscia markdown](https://www.markdownguide.org/basic-syntax/)
